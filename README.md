@@ -8,7 +8,7 @@ My name is John Koerkenmeier, and I am working on my BS in Computer Science at t
 
 ## 🏗️I'm currently working on:
 * A web app for the non-profit organization VandMe
-* My first personal project, a Habit Tracker web app tentatively named "Your Productivity Pal"
+* My first personal project, an AI-enhanced Habit Tracker web app tentatively named "Your Productivity Pal"
 * Contributing to UA Astrobotic's autonomy programming (we are rebuilding it from the ground up!)
 
 ## 🌐If you're trying to reach me:
